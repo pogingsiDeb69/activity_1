@@ -14,7 +14,7 @@ export const styles = StyleSheet.create({
     
 
     first_container:{
-        backgroundColor: '#2980b9',
+        backgroundColor: 'royalblue',
        
         borderRadiusR: 20,
         flexWidth: 1,
@@ -22,7 +22,7 @@ export const styles = StyleSheet.create({
         borderBottomRightRadius: 50,
         borderTopRightRadius: 50,
         marginBottom: 30,
-        paddingTop: 100
+        
     },
     first_text:{
         textAlign: "left",

@@ -24,10 +24,10 @@ export default function App() {
       <View style={styles.first_container}>
 
         <Image
-          source={{ uri: './src/image/myfes.jpg' }}
-          style={{ width: 60, height: 60, borderRadius: 20 }}
+          source={{ uri: 'https://scontent.fmnl17-5.fna.fbcdn.net/v/t39.30808-6/356809417_1229925811041766_5929799643946832524_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeE2GfdV55JNDsOQSQLcQn1qr5RY9dvH0cyvlFj128fRzFj651ct8vmzT_3_aBMWSWGt0mQvKWdvrvWjwvY8w3zB&_nc_ohc=YNvvWFct3q0AX-Ifo4I&_nc_ht=scontent.fmnl17-5.fna&oh=00_AfDttqN1bOFlSFvS2rj2xzpzP-EILf8W_v4oWnWKp_uNSA&oe=64FBAC46' }}
+          style={{ width: 120, height: 120, borderRadius: 70, marginTop:50,marginLeft:20 }}
         />
-        naay image are di pa ko kahibaw unsaon para makita
+        
         <Text style={styles.first_text}>
           Deborah Jane Antopina
         </Text>
